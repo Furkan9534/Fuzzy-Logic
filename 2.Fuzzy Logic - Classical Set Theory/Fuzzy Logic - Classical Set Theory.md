@@ -33,7 +33,7 @@ A set is an unordered collection of distinct elements. The elements of a set can
 
  in Roster or Tabular Form : 
 
- 1.Set Alphabet : A = {x,y,z,t,w,v,y}
- 2.Set Numbers  : B = {1,2,3,4,5,6,7}
+ Set Alphabet : A = {x,y,z,t,w,v,y} \
+ Set Numbers  : B = {1,2,3,4,5,6,7}
  
 ---
