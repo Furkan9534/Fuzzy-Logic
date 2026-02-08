@@ -246,3 +246,9 @@ Throughout this training series, the following topics will be covered:
 - A complete fuzzy decision system example
 
 All implementations will be provided separately in Python and C#.
+
+## 🇹🇷 Kaynaklar
+Tutorialspoint : https://www.tutorialspoint.com/fuzzy_logic/fuzzy_logic_introduction.htm
+
+## 🇬🇧 Resources
+Tutorialspoint : https://www.tutorialspoint.com/fuzzy_logic/fuzzy_logic_introduction.htm
