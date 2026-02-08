@@ -2,7 +2,7 @@
 
 ---
 
-## 🇹🇷 Amaç
+##  Amaç
 
 Bu bölümde fuzzy logic (bulanık mantık) kavramı tanıtılır ve klasik mantıktan farkı
 sezgisel ve uygulamaya dönük örneklerle açıklanır.
@@ -17,7 +17,7 @@ sorularına net cevap verebilir.
 
 ---
 
-## 🇬🇧 Objective
+##  Objective
 
 This chapter introduces the concept of fuzzy logic and explains its difference
 from classical logic using intuitive and practical examples.
@@ -30,7 +30,7 @@ By the end of this chapter, the reader will clearly understand:
 
 ---
 
-## 🇹🇷 Fuzzy Logic nedir?
+##  Fuzzy Logic nedir?
 
 Fuzzy, bulanık anlamın gelmektedir. Ayrıca belirsizliği ifade etmektedir. Sürekli değişen  zaman, olay, işlev her zaman doğru değildir ve bu yüzden bu durumlar için bulanık olarak tanımlamamız gerekir. Fuzzy logic, doğruluk değerlerinin yalnızca 0 ve 1 ile sınırlı olmadığı,
 0 ile 1 arasındaki tüm değerleri alabilen bir mantık yaklaşımıdır.
@@ -46,7 +46,7 @@ Bulanık mantık aslında bulanıklığı tanımlamak için kullanılan mantıkt
 
 ---
 
-## 🇬🇧 What is Fuzzy Logic?
+##  What is Fuzzy Logic?
 
 Fuzzy means blurred or indistinct. It also expresses uncertainty. Constantly changing times, events, and functions are not always true, and therefore we need to define these situations as fuzzy. Fuzzy logic is a logic approach where truth values ​​are not limited to only 0 and 1, but can take all values ​​between 0 and 1.
 
@@ -59,7 +59,7 @@ Fuzzy logic is similar to human decision-making methods. It also deals with unce
 
 Fuzzy logic is essentially the logic used to describe ambiguity. Fuzzy logic was introduced in 1965 by Lofti A. Zadeh in his research paper "Fuzzy Sets." He is considered the father of fuzzy logic.
 
-## 🇹🇷 Yapay zekâda fuzzy logic nereye girer?
+##  Yapay zekâda fuzzy logic nereye girer?
 
 Fuzzy logic, yapay zekâ içinde aşağıdaki başlıklar altında sınıflandırılır:
 
@@ -73,7 +73,7 @@ Bunun yerine uzman bilgisi ve kurallar ile çalışır.
 
 ---
 
-## 🇬🇧 Where does fuzzy logic belong in artificial intelligence?
+##  Where does fuzzy logic belong in artificial intelligence?
 
 Fuzzy logic is commonly classified under:
 
@@ -86,7 +86,7 @@ Instead, it represents human knowledge using linguistic rules.
 
 ---
 
-## 🇹🇷 Klasik mantık neden yeterli değildir?
+##  Klasik mantık neden yeterli değildir?
 
 Klasik mantıkta bir önerme ya doğrudur ya da yanlıştır.
 
@@ -102,7 +102,7 @@ Ancak klasik mantıkta bu tür kavramlar genellikle eşik değerlerle modellenir
 
 ---
 
-## 🇬🇧 Why is classical logic insufficient?
+##  Why is classical logic insufficient?
 
 In classical logic, a statement is either true or false.
 
@@ -118,7 +118,7 @@ They are usually modeled using thresholds, which may lead to information loss.
 
 ---
 
-## 🇹🇷 Kısa sezgisel örnek
+##  Kısa sezgisel örnek
 
 Bir müşterinin aylık geliri 29.500 TL olsun.
 
@@ -136,7 +136,7 @@ Fuzzy logic bu geçişleri yumuşak şekilde temsil eder.
 
 ---
 
-## 🇬🇧 A short intuitive example
+##  A short intuitive example
 
 Suppose a customer earns 29,500.
 
@@ -149,7 +149,7 @@ Fuzzy logic allows gradual transitions between concepts.
 
 ---
 
-## 🇹🇷 Fuzzy logic’in temel fikri
+##  Fuzzy logic’in temel fikri
 
 Bir eleman bir kümeye:
 
@@ -161,7 +161,7 @@ Bu aitlik derecesi 0 ile 1 arasında bir değerle ifade edilir.
 
 ---
 
-## 🇬🇧 Core idea of fuzzy logic
+##  Core idea of fuzzy logic
 
 An element can belong to a set:
 
@@ -173,7 +173,7 @@ The degree of membership is represented by a value between 0 and 1.
 
 ---
 
-## 🇹🇷 Fuzzy sistemlerin temel bileşenleri
+##  Fuzzy sistemlerin temel bileşenleri
 
 Tipik bir fuzzy sistem aşağıdaki dört ana adımdan oluşur:
 
@@ -186,7 +186,7 @@ Bu adımlar ilerleyen bölümlerde detaylı olarak ele alınacaktır.
 
 ---
 
-## 🇬🇧 Main components of a fuzzy system
+##  Main components of a fuzzy system
 
 A typical fuzzy system consists of four main stages:
 
@@ -199,7 +199,7 @@ These components will be discussed in detail in the following chapters.
 
 ---
 
-## 🇹🇷 Fuzzy logic ne zaman tercih edilmelidir?
+##  Fuzzy logic ne zaman tercih edilmelidir?
 
 Fuzzy logic aşağıdaki durumlarda özellikle uygundur:
 
@@ -210,7 +210,7 @@ Fuzzy logic aşağıdaki durumlarda özellikle uygundur:
 
 ---
 
-## 🇬🇧 When should fuzzy logic be used?
+##  When should fuzzy logic be used?
 
 Fuzzy logic is particularly suitable when:
 
@@ -221,7 +221,7 @@ Fuzzy logic is particularly suitable when:
 
 ---
 
-## 🇹🇷 Bu eğitimin kapsamı
+##  Bu eğitimin kapsamı
 
 Bu eğitim serisi boyunca aşağıdaki konular ele alınacaktır:
 
@@ -235,7 +235,7 @@ Kod örnekleri Python ve C# dilleri ile ayrı ayrı sunulacaktır.
 
 ---
 
-## 🇬🇧 Scope of this training
+##  Scope of this training
 
 Throughout this training series, the following topics will be covered:
 
@@ -247,8 +247,8 @@ Throughout this training series, the following topics will be covered:
 
 All implementations will be provided separately in Python and C#.
 
-## 🇹🇷 Kaynaklar
+##  Kaynaklar
 Tutorialspoint : https://www.tutorialspoint.com/fuzzy_logic/fuzzy_logic_introduction.htm
 
-## 🇬🇧 Resources
+##  Resources
 Tutorialspoint : https://www.tutorialspoint.com/fuzzy_logic/fuzzy_logic_introduction.htm
