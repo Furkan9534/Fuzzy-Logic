@@ -57,6 +57,8 @@ Fuzzy logic aims to model this uncertainty mathematically.
 
 Fuzzy logic is similar to human decision-making methods. It also deals with uncertain and imprecise information. It's essentially a simplified version of real-world problems, and instead of true/false or 1/0 like in Boolean logic, it relies on degrees of truth.
 
+Fuzzy logic is essentially the logic used to describe ambiguity. Fuzzy logic was introduced in 1965 by Lofti A. Zadeh in his research paper "Fuzzy Sets." He is considered the father of fuzzy logic.
+
 ## 🇹🇷 Yapay zekâda fuzzy logic nereye girer?
 
 Fuzzy logic, yapay zekâ içinde aşağıdaki başlıklar altında sınıflandırılır:
