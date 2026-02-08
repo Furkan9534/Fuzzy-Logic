@@ -19,7 +19,7 @@ A set is an unordered collection of distinct elements. The elements of a set can
 
  in Roster or Tabular Form : 
 
- Alfabe Kümesi    : A = {x,y,z,t,w,v,y}
+ Alfabe Kümesi    : A = {x,y,z,t,w,v,y}---
  Sayıları Kümesi  : B = {1,2,3,4,5,6,7}
  
 ---
