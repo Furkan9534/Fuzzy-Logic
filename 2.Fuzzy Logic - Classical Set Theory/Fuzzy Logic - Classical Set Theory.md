@@ -10,8 +10,7 @@ Bir küme , farklı elemanlardan oluşan sıralanmamış bir koleksiyondur. Küm
 
 ##  Objective
 
-A set is an unordered collection of distinct elements. The elements of a set can be written as a list using curly braces. If the order of the elements is changed, or if any element of the set is repeated, the set itself remains unchanged.ce,
-- Which types of problems it is suitable for.
+A set is an unordered collection of distinct elements. The elements of a set can be written as a list using curly braces. If the order of the elements is changed, or if any element of the set is repeated, the set itself remains unchanged.
 
 ---
 
