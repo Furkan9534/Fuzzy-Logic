@@ -40,6 +40,7 @@ Bu nedenle klasik mantık, belirsiz ve sözel kavramlarla çalışırken yetersi
 
 Fuzzy logic, bu belirsizliği matematiksel olarak modellemeyi amaçlar.
 
+
 ---
 
 ## 🇬🇧 What is Fuzzy Logic?
@@ -50,6 +51,8 @@ Many concepts in real life do not have clear boundaries.
 Therefore, classical logic is insufficient when working with ambiguous and verbal concepts.
 
 Fuzzy logic aims to model this uncertainty mathematically.
+
+Fuzzy logic is similar to human decision-making methods. It also deals with uncertain and imprecise information. It's essentially a simplified version of real-world problems, and instead of true/false or 1/0 like in Boolean logic, it relies on degrees of truth.
 
 ## 🇹🇷 Yapay zekâda fuzzy logic nereye girer?
 
