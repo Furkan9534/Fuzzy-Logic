@@ -40,6 +40,9 @@ Bu nedenle klasik mantık, belirsiz ve sözel kavramlarla çalışırken yetersi
 
 Fuzzy logic, bu belirsizliği matematiksel olarak modellemeyi amaçlar.
 
+ 
+Bulanık mantık , insan gibi karar verme yöntemine benzer. Ayrıca belirsiz ve kesin olmayan bilgilerle ilgilenmektedir. Bu aslında gerçek dünya problemlerinin basitleştirilmiş hali ve boolean mantığındaki gibi doğru/yanlış veya 1/0 yerine doğruluk derecelerine dayanır. 
+
 
 ---
 
