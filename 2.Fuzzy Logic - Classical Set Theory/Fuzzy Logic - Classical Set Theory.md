@@ -59,4 +59,5 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 
   Bir kümenin eleman sayısı   |S| ile gösterilir. Bu sayıya kardinal sayıda denmektedir.  Eğer bir kümenin sonsuz sayıfa eleman sayısı var ise eleman sayısı sonsuz olur. 
  
+  X ve Y iki küme olsun.  |X| = |Y| ifadesi, X ve Y kümelerinin  aynı eleman sayısına sahip olduğunu gösterir. Bu durum iki kümenin eleman sayıları eşit olursa olur. Bu da demek oluyor ki matematiksel olarak açıklamak gerekirse  X'ten Y'ye birebir ve örten bir f fonksiyonu mevcuttur.
 ---
