@@ -57,10 +57,6 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 ---
 ##  Bir Kümenin Kardinalitesi
 
-  Küme elemanlarını ortak bir özelliği olarak tanımlanır.  A = {x:p(x)} şeklinde tanımlanır. 
-
-  Örnek : {1,3,5,7,9} kümesi aşağıdaki gibi yazılır : 
-
-  B = {x:1 ≤ x < 10 and (x%2) ≠ 0}
+  
  
 ---
