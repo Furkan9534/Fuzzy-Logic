@@ -37,3 +37,30 @@ A set is an unordered collection of distinct elements. The elements of a set can
  Set Numbers  : B = {1,2,3,4,5,6,7}
  
 ---
+##  Küme Oluşturucu Gösterimi
+
+  Küme elemanlarını ortak bir özelliği olarak tanımlanır.  A = {x:p(x)} şeklinde tanımlanır. 
+
+  Örnek : {1,3,5,7,9} kümesi aşağıdaki gibi yazılır : 
+
+  B = {x:1 ≤ x < 10 and (x%2) ≠ 0}
+ 
+---
+## Конструктор множеств
+
+Элементы множества определяются общим свойством. Множество A определяется как A = {x:p(x)}.
+
+Пример: Множество {1,3,5,7,9} записывается следующим образом:
+
+B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
+
+---
+##  Bir Kümenin Kardinalitesi
+
+  Küme elemanlarını ortak bir özelliği olarak tanımlanır.  A = {x:p(x)} şeklinde tanımlanır. 
+
+  Örnek : {1,3,5,7,9} kümesi aşağıdaki gibi yazılır : 
+
+  B = {x:1 ≤ x < 10 and (x%2) ≠ 0}
+ 
+---
