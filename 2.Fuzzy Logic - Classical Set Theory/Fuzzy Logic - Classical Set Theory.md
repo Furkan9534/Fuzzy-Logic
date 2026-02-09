@@ -57,6 +57,6 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 ---
 ##  Bir Kümenin Kardinalitesi
 
-  
+  Bir kümenin eleman sayısı   |S| ile gösterilir. Bu sayıya kardinal sayıda denmektedir.  Eğer bir kümenin sonsuz sayıfa eleman sayısı var ise eleman sayısı sonsuz olur. 
  
 ---
