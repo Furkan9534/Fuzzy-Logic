@@ -75,6 +75,12 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
  Belirli sayıda eleman içeren kümeye sonlu küme denir.
 
  Örnek − S = {x|x ∈ N ve 55 > x > 50}
- 
+
+ Sonsuz Küme
+Sonsuz sayıda eleman içeren kümeye sonsuz küme denir.
+
+Örnek − S = {x|x ∈ N ve x > 5}
+
+
 
 ---
