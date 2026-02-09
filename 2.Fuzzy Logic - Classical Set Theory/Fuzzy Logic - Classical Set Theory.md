@@ -64,5 +64,7 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
   |X| ≤ |Y| ifadesi, X kümesinin eleman sayısının Y kümesinin eleman sayısından küçük veya ona eşit olduğunu gösterir. Bu nedenle ,  X'ten Y'ye birebir bir f fonksiyonu mevcuttur.
 
   |X| < |Y| ifadesi, X kümesinin eleman sayısı Y kümesinin eleman sayısından az olduğunu gösterir. Burada, X'ten Y'ye tanımlı f fonksiyonu birebir (injektif) fonksiyondur, ancak birebir örten (biyektif) fonksiyon değildir.
-  
+
+  Eğer |X| ≤ |Y| ve |X| ≤ |Y| ise , |X| = |Y|. X ve Y kümeleri genellikle eşdeğer kümeler olarak adlandırılır .
+
 ---
