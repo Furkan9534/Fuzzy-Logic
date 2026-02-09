@@ -81,6 +81,9 @@ Sonsuz sayıda eleman içeren kümeye sonsuz küme denir.
 
 Örnek − S = {x|x ∈ N ve x > 5}
 
+Alt küme
+Bir X kümesi, Y kümesinin bir alt kümesidir (X ⊆ Y), eğer X kümesinin her elemanı Y kümesinin de bir elemanıysa   alt küme şeklinde yazılabilir. 
 
+Örnek 1 − X = {1,2,3,4} ve Y = {1,2} olsun. Burada Y kümesi, X kümesinin bir alt kümesidir çünkü Y kümesinin  elemanları X kümesinde bulunmaktadır. Bu nedenle, Y⊆X olarak yazılır.
 
 ---
