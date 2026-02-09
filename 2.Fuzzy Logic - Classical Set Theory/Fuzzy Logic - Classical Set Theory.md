@@ -71,5 +71,10 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 
  Kümelerin bir çok türü bulunmaktadır. Bunlardan bazıları sonlu, sonsuz, alt küme, evrensel küme, öz küme, tek elemanlı kümeler olarak örnekler verilebilir.
 
+ Sonlu Küme
+ Belirli sayıda eleman içeren kümeye sonlu küme denir.
+
+ Örnek − S = {x|x ∈ N ve 55 > x > 50}
  
+
 ---
