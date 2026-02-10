@@ -86,4 +86,8 @@ Bir X kümesi, Y kümesinin bir alt kümesidir (X ⊆ Y), eğer X kümesinin her
 
 Örnek 1 − X = {1,2,3,4} ve Y = {1,2} olsun. Burada Y kümesi, X kümesinin bir alt kümesidir çünkü Y kümesinin  elemanları X kümesinde bulunmaktadır. Bu nedenle, Y⊆X olarak yazılır.
 
+Öz Alt Küme
+Öz alt küme, bir kümenin alt kümesi ve ona eşit olmayan kümedir. X kümesi, Y kümesinin öz alt kümesidir; eğer X’in tüm elemanları Y’de bulunuyorsa ve X, Y’ye eşit değilse.
+
+Örnek − X = {1,2,3,4,5,6} ve Y = {1,2} olsun. Burada Y ⊂ X'tir, çünkü Y'deki tüm elemanlar X'te de bulunur ve X'te Y'den daha büyük en az bir eleman vardır.
 ---
