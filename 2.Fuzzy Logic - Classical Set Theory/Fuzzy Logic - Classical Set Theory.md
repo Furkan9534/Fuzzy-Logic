@@ -104,5 +104,9 @@ Boş kümenin eleman sayısı 0’dır, bu yüzden boş küme sonlu bir kümedir
 çünkü 7 ile 8 arasında doğal sayı yoktur.
 
 
+Tek Elemanlı (birim) Küme
+Tek elemanlı (birim) küme, yalnızca bir eleman içeren kümedir ve genellikle {s} biçiminde gösterilir.
 
+Örnek: S={x∣x∈N,7<x<9}={8}
+çünkü bu aralığı sağlayan tek doğal sayı 8’dir.
 ---
