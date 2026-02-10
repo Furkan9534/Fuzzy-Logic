@@ -109,4 +109,9 @@ Tek elemanlı (birim) küme, yalnızca bir eleman içeren kümedir ve genellikle
 
 Örnek: S={x∣x∈N,7<x<9}={8}
 çünkü bu aralığı sağlayan tek doğal sayı 8’dir.
+
+Eşit küme:
+İki küme, elemanları aynıysa (sıraları önemli olmadan), bu kümelere eşit kümeler denir.
+Örnek : A = {1, 2, 6} ve B = {6, 1, 2} ise, her iki küme de aynı elemanları içerdiği için A = B’dir.
+
 ---
