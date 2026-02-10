@@ -90,4 +90,10 @@ Bir X kümesi, Y kümesinin bir alt kümesidir (X ⊆ Y), eğer X kümesinin her
 Öz alt küme, bir kümenin alt kümesi ve ona eşit olmayan kümedir. X kümesi, Y kümesinin öz alt kümesidir; eğer X’in tüm elemanları Y’de bulunuyorsa ve X, Y’ye eşit değilse.
 
 Örnek − X = {1,2,3,4,5,6} ve Y = {1,2} olsun. Burada Y ⊂ X'tir, çünkü Y'deki tüm elemanlar X'te de bulunur ve X'te Y'den daha büyük en az bir eleman vardır.
+
+Evrensel Küme
+Evrensel küme, belirli bir konuya ait tüm elemanları kapsayan en büyük kümedir ve o konudaki diğer tüm kümeler onun alt kümesidir; genellikle U ile gösterilir.Örneğin, yeryüzündeki tüm hayvanlar evrensel küme seçilirse, memeliler, balıklar ve böcekler bu kümenin alt kümeleri olur.
+
+
+
 ---
