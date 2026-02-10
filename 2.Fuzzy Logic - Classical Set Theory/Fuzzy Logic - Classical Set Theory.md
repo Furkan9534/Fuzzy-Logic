@@ -120,4 +120,16 @@ Eşdeğer küme:
 
 Örnek : A = {1, 2, 6} ve B = {16, 17, 22} için ∣A∣=∣B∣=3 olduğundan A ve B kümeleri eşdeğerdir.
 
+Örtüşen kümeler:
+En az bir ortak elemanı olan iki kümeye örtüşen kümeler denir. Bu durumda eleman sayıları için şu ilişkiler geçerlidir:
+
+n(A∪B)=n(A)+n(B)−n(A∩B) \
+n(A∪B)=n(A−B)+n(B−A)+n(A∩B) \
+n(A)=n(A−B)+n(A∩B) \
+n(B)=n(B−A)+n(A∩B)
+
+Örnek :  A = {1, 2, 6} ve B = {6, 12, 42} kümeleri için A∩B={6} olduğundan bu iki küme örtüşen kümelerdir.
+
+
+
 ---
