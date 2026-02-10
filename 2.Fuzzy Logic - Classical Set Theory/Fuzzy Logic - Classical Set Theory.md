@@ -100,7 +100,9 @@ Boş Küme veya Null Küme
 Boş küme (null küme), içinde hiç eleman bulunmayan kümedir ve ∅ (veya Φ) ile gösterilir.
 Boş kümenin eleman sayısı 0’dır, bu yüzden boş küme sonlu bir kümedir.
 
-Örnek
-S={x∣x∈N,7<x<8}=∅ \
+Örnek:  S={x∣x∈N,7<x<8}=∅ \
 çünkü 7 ile 8 arasında doğal sayı yoktur.
+
+
+
 ---
