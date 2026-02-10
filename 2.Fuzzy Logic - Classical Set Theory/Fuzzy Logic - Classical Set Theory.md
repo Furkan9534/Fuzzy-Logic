@@ -92,8 +92,15 @@ Bir X kümesi, Y kümesinin bir alt kümesidir (X ⊆ Y), eğer X kümesinin her
 Örnek − X = {1,2,3,4,5,6} ve Y = {1,2} olsun. Burada Y ⊂ X'tir, çünkü Y'deki tüm elemanlar X'te de bulunur ve X'te Y'den daha büyük en az bir eleman vardır.
 
 Evrensel Küme
+
 Evrensel küme, belirli bir konuya ait tüm elemanları kapsayan en büyük kümedir ve o konudaki diğer tüm kümeler onun alt kümesidir; genellikle U ile gösterilir.Örneğin, yeryüzündeki tüm hayvanlar evrensel küme seçilirse, memeliler, balıklar ve böcekler bu kümenin alt kümeleri olur.
 
+Boş Küme veya Null Küme
 
+Boş küme (null küme), içinde hiç eleman bulunmayan kümedir ve ∅ (veya Φ) ile gösterilir.
+Boş kümenin eleman sayısı 0’dır, bu yüzden boş küme sonlu bir kümedir.
 
+Örnek
+S={x∣x∈N,7<x<8}=∅
+çünkü 7 ile 8 arasında doğal sayı yoktur.
 ---
