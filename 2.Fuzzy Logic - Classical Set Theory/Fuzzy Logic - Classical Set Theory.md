@@ -112,6 +112,12 @@ Tek elemanlı (birim) küme, yalnızca bir eleman içeren kümedir ve genellikle
 
 Eşit küme:
 İki küme, elemanları aynıysa (sıraları önemli olmadan), bu kümelere eşit kümeler denir.
+
 Örnek : A = {1, 2, 6} ve B = {6, 1, 2} ise, her iki küme de aynı elemanları içerdiği için A = B’dir.
+
+Eşdeğer küme:
+İki kümenin eleman sayıları birbirine eşitse, bu kümelere eşdeğer kümeler denir.
+
+Örnek : A = {1, 2, 6} ve B = {16, 17, 22} için ∣A∣=∣B∣=3 olduğundan A ve B kümeleri eşdeğerdir.
 
 ---
