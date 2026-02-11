@@ -1,5 +1,6 @@
 # Fuzzy Logic (Bulanık Mantık) - Klasik Küme Teorisi
 --- 
+
 ##  Amaç
 
 Bir küme , farklı elemanlardan oluşan sıralanmamış bir koleksiyondur. Küme elemeanları küme parantezi kullanarak liste biçiminde yazılabilir. Eğer elemanlarnı sırası değişir, kümenin herhangi bir elemanı tekrarlanırsa kümede herhangi bir değişiklik olmaz.
