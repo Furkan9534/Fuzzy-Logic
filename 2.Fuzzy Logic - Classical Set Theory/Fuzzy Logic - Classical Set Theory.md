@@ -3,8 +3,6 @@
 ##  Amaç
 
 Bir küme , farklı elemanlardan oluşan sıralanmamış bir koleksiyondur. Küme elemeanları küme parantezi kullanarak liste biçiminde yazılabilir. Eğer elemanlarnı sırası değişir, kümenin herhangi bir elemanı tekrarlanırsa kümede herhangi bir değişiklik olmaz.
-
-
 ---
 
 ##  Objective
@@ -23,8 +21,6 @@ A set is an unordered collection of distinct elements. The elements of a set can
  Sayıları Kümesi  : B = {1,2,3,4,5,6,7}
  
 ---
-
-
 
 ##  Mathematical Representation of a Set
 
@@ -46,11 +42,11 @@ A set is an unordered collection of distinct elements. The elements of a set can
   B = {x:1 ≤ x < 10 and (x%2) ≠ 0}
  
 ---
-## Конструктор множеств
+## Küme Oluşturucu
 
-Элементы множества определяются общим свойством. Множество A определяется как A = {x:p(x)}.
+Bir kümenin elemanları ortak bir özellik ile tanımlanır. Bir A kümesi A = {x:p(x)} şeklinde tanımlanır.
 
-Пример: Множество {1,3,5,7,9} записывается следующим образом:
+Örnek: {1,3,5,7,9} kümesi şu şekilde yazılır:
 
 B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 
