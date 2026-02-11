@@ -63,7 +63,7 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 
   Eğer |X| ≤ |Y| ve |X| ≤ |Y| ise , |X| = |Y|. X ve Y kümeleri genellikle eşdeğer kümeler olarak adlandırılır.
 
- ##Küme TÜrleri
+ ## Küme TÜrleri
 
  Kümelerin bir çok türü bulunmaktadır. Bunlardan bazıları sonlu, sonsuz, alt küme, evrensel küme, öz küme, tek elemanlı kümeler olarak örnekler verilebilir.
 
@@ -72,12 +72,12 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 
  Örnek − S = {x|x ∈ N ve 55 > x > 50}
 
- Sonsuz Küme
+ ## Sonsuz Küme
 Sonsuz sayıda eleman içeren kümeye sonsuz küme denir.
 
 Örnek − S = {x|x ∈ N ve x > 5}
 
-Alt küme
+## Alt küme
 Bir X kümesi, Y kümesinin bir alt kümesidir (X ⊆ Y), eğer X kümesinin her elemanı Y kümesinin de bir elemanıysa   alt küme şeklinde yazılabilir. 
 
 Örnek 1 − X = {1,2,3,4} ve Y = {1,2} olsun. Burada Y kümesi, X kümesinin bir alt kümesidir çünkü Y kümesinin  elemanları X kümesinde bulunmaktadır. Bu nedenle, Y⊆X olarak yazılır.
@@ -87,11 +87,11 @@ Bir X kümesi, Y kümesinin bir alt kümesidir (X ⊆ Y), eğer X kümesinin her
 
 Örnek − X = {1,2,3,4,5,6} ve Y = {1,2} olsun. Burada Y ⊂ X'tir, çünkü Y'deki tüm elemanlar X'te de bulunur ve X'te Y'den daha büyük en az bir eleman vardır.
 
-Evrensel Küme
+## Evrensel Küme
 
 Evrensel küme, belirli bir konuya ait tüm elemanları kapsayan en büyük kümedir ve o konudaki diğer tüm kümeler onun alt kümesidir; genellikle U ile gösterilir.Örneğin, yeryüzündeki tüm hayvanlar evrensel küme seçilirse, memeliler, balıklar ve böcekler bu kümenin alt kümeleri olur.
 
-Boş Küme veya Null Küme
+## Boş Küme veya Null Küme
 
 Boş küme (null küme), içinde hiç eleman bulunmayan kümedir ve ∅ (veya Φ) ile gösterilir.
 Boş kümenin eleman sayısı 0’dır, bu yüzden boş küme sonlu bir kümedir.
@@ -100,23 +100,23 @@ Boş kümenin eleman sayısı 0’dır, bu yüzden boş küme sonlu bir kümedir
 çünkü 7 ile 8 arasında doğal sayı yoktur.
 
 
-Tek Elemanlı (birim) Küme
+## Tek Elemanlı (birim) Küme
 Tek elemanlı (birim) küme, yalnızca bir eleman içeren kümedir ve genellikle {s} biçiminde gösterilir.
 
 Örnek: S={x∣x∈N,7<x<9}={8}
 çünkü bu aralığı sağlayan tek doğal sayı 8’dir.
 
-Eşit küme:
+## Eşit küme:
 İki küme, elemanları aynıysa (sıraları önemli olmadan), bu kümelere eşit kümeler denir.
 
 Örnek : A = {1, 2, 6} ve B = {6, 1, 2} ise, her iki küme de aynı elemanları içerdiği için A = B’dir.
 
-Eşdeğer küme:
+## Eşdeğer Küme:
 İki kümenin eleman sayıları birbirine eşitse, bu kümelere eşdeğer kümeler denir.
 
 Örnek : A = {1, 2, 6} ve B = {16, 17, 22} için ∣A∣=∣B∣=3 olduğundan A ve B kümeleri eşdeğerdir.
 
-Örtüşen kümeler:
+## Örtüşen Kümeler:
 En az bir ortak elemanı olan iki kümeye örtüşen kümeler denir. Bu durumda eleman sayıları için şu ilişkiler geçerlidir:
 
 n(A∪B)=n(A)+n(B)−n(A∩B) \
@@ -126,7 +126,7 @@ n(B)=n(B−A)+n(A∩B)
 
 Örnek :  A = {1, 2, 6} ve B = {6, 12, 42} kümeleri için A∩B={6} olduğundan bu iki küme örtüşen kümelerdir.
 
-Disjoint Sets
+## Disjoint Sets
 Two sets, A and B, are disjoint sets if they have no common element. Therefore, disjoint sets have the following properties:
 
 n ( A ∩ B ) = ϕ
@@ -134,11 +134,11 @@ n ( A ∪ B ) = n ( A ) + n ( B )
 
 Örnek : Let A = {1,3,8} and B = {7,9,14}. They have no common element, therefore these sets are overlapping sets.
 
-Klasik Kümeler Üzerindeki İşlemler
+## Klasik Kümeler Üzerindeki İşlemler
 
 Set operations include set union, set intersection, set difference, set complement, and Cartesian product.
 
-Union
+## Union
 The union of sets A and B is the set of elements that are in A, B, or both A and B. That is, A ∪ B = {x|x ∈ A OR x ∈ B}.
 
 Örnek: Eğer A = {11,12,13,14} ve B = {11,14,15} ise, A ∪ B = {11,12,13,14,15} olur. Ortak eleman yalnızca bir kez bulunur.
@@ -146,7 +146,7 @@ The union of sets A and B is the set of elements that are in A, B, or both A and
 <img width="205" height="157" alt="image" src="https://github.com/user-attachments/assets/aaa1d682-eb3a-49c8-821e-ec19076c7e95" /> 
 
 
-Kesişim
+## Kesişim
 A ve B kümelerinin kesişimi A ∩ B ile gösterilir. Hem A hem de B'de bulunan ortak  elemanların kümesidir. Yani :  A ∩ B = {x|x ∈ A VE x ∈ B}.
 
 
