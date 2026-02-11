@@ -4,6 +4,7 @@
 ##  Amaç
 
 Bir küme , farklı elemanlardan oluşan sıralanmamış bir koleksiyondur. Küme elemeanları küme parantezi kullanarak liste biçiminde yazılabilir. Eğer elemanlarnı sırası değişir, kümenin herhangi bir elemanı tekrarlanırsa kümede herhangi bir değişiklik olmaz.
+
 ---
 
 ##  Bir Kümenin Matematiksel Gösterimi
@@ -16,7 +17,6 @@ Bir küme , farklı elemanlardan oluşan sıralanmamış bir koleksiyondur. Küm
  Alfabe Kümesi    : A = {x,y,z,t,w,v,y} \
  Sayıları Kümesi  : B = {1,2,3,4,5,6,7}
  
-
 ---
 ##  Küme Oluşturucu Gösterimi
 
