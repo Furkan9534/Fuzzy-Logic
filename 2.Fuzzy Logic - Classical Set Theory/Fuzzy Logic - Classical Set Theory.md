@@ -15,18 +15,7 @@ Bir küme , farklı elemanlardan oluşan sıralanmamış bir koleksiyondur. Küm
  Alfabe Kümesi    : A = {x,y,z,t,w,v,y} \
  Sayıları Kümesi  : B = {1,2,3,4,5,6,7}
  
----
 
-##  Mathematical Representation of a Set
-
- Roster or Tabular Form
- In this format, a set is written as a list of all its elements. The elements are enclosed in curly braces and separated by commas.
-
- in Roster or Tabular Form : 
-
- Set Alphabet : A = {x,y,z,t,w,v,y} \
- Set Numbers  : B = {1,2,3,4,5,6,7}
- 
 ---
 ##  Küme Oluşturucu Gösterimi
 
