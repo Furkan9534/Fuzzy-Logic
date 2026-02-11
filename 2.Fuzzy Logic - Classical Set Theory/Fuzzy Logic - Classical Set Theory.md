@@ -67,7 +67,7 @@ B = {x:1 ≤ x < 10 и (x%2) ≠ 0}
 
   Eğer |X| ≤ |Y| ve |X| ≤ |Y| ise , |X| = |Y|. X ve Y kümeleri genellikle eşdeğer kümeler olarak adlandırılır.
 
- Küme TÜrleri
+ ##Küme TÜrleri
 
  Kümelerin bir çok türü bulunmaktadır. Bunlardan bazıları sonlu, sonsuz, alt küme, evrensel küme, öz küme, tek elemanlı kümeler olarak örnekler verilebilir.
 
