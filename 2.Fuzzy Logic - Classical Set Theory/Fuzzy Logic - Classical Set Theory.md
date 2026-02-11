@@ -1,4 +1,4 @@
-# Fuzzy Logic - Classical Set Theory
+<img width="205" height="157" alt="image" src="https://github.com/user-attachments/assets/aaa1d682-eb3a-49c8-821e-ec19076c7e95" /><img width="205" height="157" alt="abirleşimb" src="https://github.com/user-attachments/assets/95e306be-fd40-4574-b2fd-fe590aaf61cb" /><img width="205" height="157" alt="image" src="https://github.com/user-attachments/assets/50818b9d-1514-4984-8982-8820f3e62edc" /># Fuzzy Logic - Classical Set Theory
 ---
 ##  Amaç
 
@@ -147,6 +147,7 @@ The union of sets A and B is the set of elements that are in A, B, or both A and
 
 Örnek: Eğer A = {11,12,13,14} ve B = {11,14,15} ise, A ∪ B = {11,12,13,14,15} olur. Ortak eleman yalnızca bir kez bulunur.
 
+![Uploading abirleşimb.png…]()
 
 
 
