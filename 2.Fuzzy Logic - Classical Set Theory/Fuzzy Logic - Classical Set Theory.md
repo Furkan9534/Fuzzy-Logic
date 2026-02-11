@@ -110,13 +110,13 @@ n(B)=n(B−A)+n(A∩B)
 
 Örnek :  A = {1, 2, 6} ve B = {6, 12, 42} kümeleri için A∩B={6} olduğundan bu iki küme örtüşen kümelerdir.
 
-## Disjoint Sets
-Two sets, A and B, are disjoint sets if they have no common element. Therefore, disjoint sets have the following properties:
+## Ayrık Kümeler
+A ve B olmak üzere iki küme, ortak elemanları yoksa ayrık kümelerdir. Bu nedenle, ayrık kümeler aşağıdaki özelliklere sahiptir:
 
 n ( A ∩ B ) = ϕ
 n ( A ∪ B ) = n ( A ) + n ( B )
 
-Örnek : Let A = {1,3,8} and B = {7,9,14}. They have no common element, therefore these sets are overlapping sets.
+Örnek: A = {1,3,8} ve B = {7,9,14} olsun. Ortak elemanları yoktur, bu nedenle bu kümeler örtüşen kümelerdir.
 
 ## Klasik Kümeler Üzerindeki İşlemler
 
