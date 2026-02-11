@@ -138,6 +138,13 @@ n ( A ∪ B ) = n ( A ) + n ( B )
 
 Örnek : Let A = {1,3,8} and B = {7,9,14}. They have no common element, therefore these sets are overlapping sets.
 
+Klasik Kümeler Üzerindeki İşlemler
+
+Set operations include set union, set intersection, set difference, set complement, and Cartesian product.
+
+Union
+The union of sets A and B is the set of elements that are in A, B, or both A and B. That is, A ∪ B = {x|x ∈ A OR x ∈ B}.
+
 
 
 
