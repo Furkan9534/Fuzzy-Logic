@@ -146,6 +146,9 @@ The union of sets A and B is the set of elements that are in A, B, or both A and
 <img width="205" height="157" alt="image" src="https://github.com/user-attachments/assets/aaa1d682-eb3a-49c8-821e-ec19076c7e95" /> 
 
 
+Kesişim
+A ve B kümelerinin kesişimi A ∩ B ile gösterilir. Hem A hem de B'de bulunan ortak  elemanların kümesidir. Yani :  A ∩ B = {x|x ∈ A VE x ∈ B}.
+
 
 
 ---
