@@ -155,5 +155,6 @@ n sayıda A1, A2, An kümesinin Kartezyen çarpımı, A1 × A2...× An olarak g�
 
 Kümelerin özellikleri, elde etmek istediğimiz çözümlerin elde edilmesinde önemli bir rol oynar. 
 
+Klasik kümelerin farklı özellikleri şunlardır:
 
 ---
