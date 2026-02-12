@@ -146,5 +146,6 @@ A ve B kümelerinin küme farkı  yalnızca A kümesinde bulunan ancak B kümesi
 ## Bir Kümenin Tamamlayıcısı
 Bir A kümesinin tamamlayıcısı , A kümesinde olmayan elemanların kümesidir.     
 
+Daha açık bir ifadeyle, A′ = (UA) burada U, tüm nesneleri içeren evrensel bir kümedir.
 
 ---
