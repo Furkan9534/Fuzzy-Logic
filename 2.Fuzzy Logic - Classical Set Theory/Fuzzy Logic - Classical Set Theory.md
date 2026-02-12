@@ -135,5 +135,8 @@ A ve B kümelerinin birleşimi, A'da, B'de veya hem A'da hem de B'de bulunan ele
 A ve B kümelerinin kesişimi A ∩ B ile gösterilir. Hem A hem de B'de bulunan ortak  elemanların kümesidir. Yani :  A ∩ B = {x|x ∈ A VE x ∈ B}.
 
 
+##  Fark/Bağıl Tamamlayıcı
+A ve B kümelerinin küme farkı  yalnızca A kümesinde bulunan ancak B kümesinde bulunmayan elemanların kümesidir.  AB = {x|x ∈ A VE x ∉ B} şeklinde matematiksel olarak gösterilebilir. 
+
 
 ---
