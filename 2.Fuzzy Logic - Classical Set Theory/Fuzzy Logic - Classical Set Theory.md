@@ -157,4 +157,6 @@ Kümelerin özellikleri, elde etmek istediğimiz çözümlerin elde edilmesinde 
 
 Klasik kümelerin farklı özellikleri şunlardır:
 
+## Değişme Özelliği
+
 ---
