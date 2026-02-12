@@ -148,7 +148,7 @@ Bir A kümesinin tamamlayıcısı , A kümesinde olmayan elemanların kümesidir
 
 Daha açık bir ifadeyle, A′ = (UA) burada U, tüm nesneleri içeren evrensel bir kümedir.
 
- 
+ ## Kartezyen Çarpım / Çapraz Çarpım
 
 
 ---
