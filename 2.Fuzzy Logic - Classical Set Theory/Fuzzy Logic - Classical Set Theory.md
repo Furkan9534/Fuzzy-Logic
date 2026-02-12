@@ -143,4 +143,8 @@ A ve B kümelerinin küme farkı  yalnızca A kümesinde bulunan ancak B kümesi
 <img width="439" height="153" alt="a-b" src="https://github.com/user-attachments/assets/dda2a82c-1bb1-4e57-a0ad-aa614b687008" />
 
 
+## Bir Kümenin Tamamlayıcısı
+Bir A kümesinin tamamlayıcısı , A kümesinde olmayan elemanların kümesidir.     
+
+
 ---
