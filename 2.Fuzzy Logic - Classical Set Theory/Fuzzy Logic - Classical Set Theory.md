@@ -152,4 +152,8 @@ Daha açık bir ifadeyle, A′ = (UA) burada U, tüm nesneleri içeren evrensel 
 n sayıda A1, A2, An kümesinin Kartezyen çarpımı, A1 × A2...× An olarak gösterilir ve x1 ∈ A1, x2 ∈ A2, xn ∈ An olmak üzere tüm olası sıralı çiftler (x1, x2, xn) olarak tanımlanabilir.
 
 ## Klasik Kümelerin Özellikleri
+
+Kümelerin özellikleri, elde etmek istediğimiz çözümlerin elde edilmesinde önemli bir rol oynar. 
+
+
 ---
