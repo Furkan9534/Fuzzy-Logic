@@ -149,6 +149,6 @@ Bir A kümesinin tamamlayıcısı , A kümesinde olmayan elemanların kümesidir
 Daha açık bir ifadeyle, A′ = (UA) burada U, tüm nesneleri içeren evrensel bir kümedir.
 
  ## Kartezyen Çarpım / Çapraz Çarpım
-
+n sayıda A1, A2, An kümesinin Kartezyen çarpımı, A1 × A2...× An olarak gösterilir ve x1 ∈ A1, x2 ∈ A2, xn ∈ An olmak üzere tüm olası sıralı çiftler (x1, x2, xn) olarak tanımlanabilir.
 
 ---
