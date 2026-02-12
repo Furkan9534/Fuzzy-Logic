@@ -158,5 +158,8 @@ Kümelerin özellikleri, elde etmek istediğimiz çözümlerin elde edilmesinde 
 Klasik kümelerin farklı özellikleri şunlardır:
 
 ## Değişme Özelliği
+A ve B olmak üzere iki kümemiz varsa, bu özellik şunu ifade eder:
 
+A∪B=B∪A 
+A∩B=B∩A
 ---
