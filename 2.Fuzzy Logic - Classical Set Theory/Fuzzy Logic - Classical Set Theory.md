@@ -140,4 +140,6 @@ A ve B kümelerinin küme farkı  yalnızca A kümesinde bulunan ancak B kümesi
 
 Örnek −   A = {9,8,12,13} ve B = {9,16,25} ise, (A B) = {8,12,13} ve (B A) = {16,25} olur.  
 
+
+
 ---
