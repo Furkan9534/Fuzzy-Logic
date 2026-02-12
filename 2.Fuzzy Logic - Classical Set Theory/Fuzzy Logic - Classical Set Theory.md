@@ -138,5 +138,6 @@ A ve B kümelerinin kesişimi A ∩ B ile gösterilir. Hem A hem de B'de bulunan
 ##  Fark/Bağıl Tamamlayıcı
 A ve B kümelerinin küme farkı  yalnızca A kümesinde bulunan ancak B kümesinde bulunmayan elemanların kümesidir.  AB = {x|x ∈ A VE x ∉ B} şeklinde matematiksel olarak gösterilebilir. 
 
+Örnek −   A = {9,8,12,13} ve B = {9,16,25} ise, (A B) = {8,12,13} ve (B A) = {16,25} olur.  
 
 ---
