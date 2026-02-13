@@ -211,4 +211,7 @@ A'' = A == A'nın değilinin değili A'ya eşittir.
 De Morgan yasası totolojilerin ve çelişkilerin kanıtlanmasında destek sağlar. Bu yasa şunu belirtir:
 
 (A∩B)' =(A'∪B')
+
+(A∪B)' =(A'∩B')
+
 ---
