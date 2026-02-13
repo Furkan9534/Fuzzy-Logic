@@ -197,6 +197,7 @@ A∩φ=φ  \\
 
 A∪X=X 
 
-
+## Geçişlilik Özelliği
+A, B ve C olmak üzere üç kümemiz olduğunda, bu özellik şunu ifade eder:
 
 ---
