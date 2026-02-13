@@ -207,5 +207,6 @@ Herhangi bir A kümesi için bu özellik şunu ifade eder:
 
 A'' = A == A'nın değilinin değili A'ya eşittir.
 
+## De Morgan Yasası
 
 ---
