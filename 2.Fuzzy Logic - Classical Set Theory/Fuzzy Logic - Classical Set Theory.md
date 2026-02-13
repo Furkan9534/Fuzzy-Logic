@@ -212,6 +212,6 @@ De Morgan yasası totolojilerin ve çelişkilerin kanıtlanmasında destek sağl
 
 (A ∩ B)' =(A'∪ B')
 
-(A ∪ B)' =(A'∩B')
+(A ∪ B)' =(A'∩ B')
 
 ---
