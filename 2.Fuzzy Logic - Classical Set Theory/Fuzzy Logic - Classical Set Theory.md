@@ -186,4 +186,7 @@ Herhangi bir A kümesi için bu özellik şunu ifade eder:
 A∪A=A \\
 
 A∩A=A
+
+## Birim Eleman Özelliği
+A kümesi ve evrensel küme X için bu özellik şunu ifade eder:
 ---
