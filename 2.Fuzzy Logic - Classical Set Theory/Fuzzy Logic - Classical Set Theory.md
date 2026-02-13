@@ -189,7 +189,13 @@ A∩A=A
 
 ## Birim Eleman Özelliği
 A kümesi ve evrensel küme X için bu özellik şunu ifade eder:
+A∪φ=A \\
 
+A∩X=A
+
+A∩φ=φ
+
+A∪X=X
 
 
 ---
