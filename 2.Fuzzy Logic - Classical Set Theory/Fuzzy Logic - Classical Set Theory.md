@@ -205,7 +205,7 @@ A ⊆ B ⊆ C , then A ⊆ C
 # Evrişim Özelliği
 Herhangi bir A kümesi için bu özellik şunu ifade eder:
 
-A'' = A 
+A'' = A == A'nın değilinin değili A'ya eşittir.
 
 
 ---
