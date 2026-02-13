@@ -183,5 +183,7 @@ A∩(B∪C)=(A∩B)∪(A∩C)
 ## İdempotansiyel Özellik
 Herhangi bir A kümesi için bu özellik şunu ifade eder:
 
+A∪A=A
 
+A∩A=A
 ---
