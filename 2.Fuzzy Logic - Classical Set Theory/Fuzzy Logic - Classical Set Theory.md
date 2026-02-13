@@ -178,4 +178,10 @@ A, B ve C olmak üzere üç kümemiz olduğunda, bu özellik şunu ifade eder:
 A∪(B∩C)=(A∪B)∩(A∪C) \\
 
 A∩(B∪C)=(A∩B)∪(A∩C)
+
+
+## İdempotansiyel Özellik
+Herhangi bir A kümesi için bu özellik şunu ifade eder:
+
+
 ---
