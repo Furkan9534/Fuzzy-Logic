@@ -189,11 +189,11 @@ A∩A=A
 
 ## Birim Eleman Özelliği
 A kümesi ve evrensel küme X için bu özellik şunu ifade eder:
-A∪φ=A \\
+A∪φ=A \
 
-A∩X=A \\
+A∩X=A \
 
-A∩φ=φ  \\
+A∩φ=φ  \
 
 A∪X=X 
 
@@ -201,5 +201,8 @@ A∪X=X
 A, B ve C olmak üzere üç kümemiz olduğunda, bu özellik şunu ifade eder:
 
 A ⊆ B ⊆ C , then A ⊆ C
+
+# Evrişim Özelliği
+Herhangi bir A kümesi için bu özellik şunu ifade eder:
 
 ---
