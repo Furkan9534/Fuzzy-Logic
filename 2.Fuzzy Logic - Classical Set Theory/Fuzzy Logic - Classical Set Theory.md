@@ -208,5 +208,7 @@ Herhangi bir A kümesi için bu özellik şunu ifade eder:
 A'' = A == A'nın değilinin değili A'ya eşittir.
 
 ## De Morgan Yasası
+De Morgan yasası totolojilerin ve çelişkilerin kanıtlanmasında destek sağlar. Bu yasa şunu belirtir:
 
+(A∩B)' =(A'∪B')
 ---
