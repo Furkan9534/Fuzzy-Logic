@@ -162,4 +162,8 @@ A ve B olmak üzere iki kümemiz varsa, bu özellik şunu ifade eder:
 
 A∪B=B∪A \\
 A∩B=B∩A
+
+## Birleşme Özelliği
+A, B ve C olmak üzere üç kümemiz olduğunda, bu özellik şunu ifade eder:
+
 ---
