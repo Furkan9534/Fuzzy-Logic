@@ -169,4 +169,11 @@ A, B ve C olmak üzere üç kümemiz olduğunda, bu özellik şunu ifade eder:
 A∪(B∪C)=(A∪B)∪C \\
 
 A∩(B∩C)=(A∩B)∩C
+
+
+
+##  Dağılma Özelliği
+A, B ve C olmak üzere üç kümemiz olduğunda, bu özellik şunu ifade eder:
+
+
 ---
