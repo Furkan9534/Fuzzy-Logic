@@ -191,7 +191,7 @@ A∩A=A
 A kümesi ve evrensel küme X için bu özellik şunu ifade eder:
 A∪φ=A \\
 
-A∩X=A
+A∩X=A \\
 
 A∩φ=φ
 
