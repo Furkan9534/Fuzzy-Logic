@@ -17,3 +17,12 @@ Alphabet Set: A = {x,y,z,t,w,v,y}
 Number Set: B = {1,2,3,4,5,6,7}
 
 ---
+## Set Constructor Notation
+
+Set elements are defined by a common property. A is defined as A = {x:p(x)}.
+
+Example: The set {1,3,5,7,9} is written as follows:
+
+B = {x:1 ≤ x < 10 and (x%2) ≠ 0}
+
+---
