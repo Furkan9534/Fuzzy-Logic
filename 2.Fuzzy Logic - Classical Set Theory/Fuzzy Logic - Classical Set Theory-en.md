@@ -56,5 +56,13 @@ A set containing an infinite number of elements is called an infinite set.
 
 Example: − S = {x|x ∈ N and x > 5}
 ## Subset
+A set X is a subset of a set Y (X ⊆ Y) if every element of X is also an element of Y.
+
+Example 1: Let X = {1,2,3,4} and Y = {1,2}. Here, Y is a subset of X because all elements of Y are in X. Therefore, it is written as Y⊆X.
+
+Proper Subset
+A proper subset is a subset of a set that is not equal to it. X is a proper subset of Y if all elements of X are in Y and X is not equal to Y.
+
+Example: Let X = {1,2,3,4,5,6} and Y = {1,2}. Here, Y ⊂ X because all elements in Y are also in X, and X has at least one element greater than Y.
 
 ---
