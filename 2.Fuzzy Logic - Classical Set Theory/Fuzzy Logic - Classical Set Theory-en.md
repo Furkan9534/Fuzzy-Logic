@@ -42,5 +42,6 @@ The expression |X| ≤ |Y| indicates that the number of elements in set X is les
 
 The expression |X| < |Y| indicates that the number of elements in set X is less than the number of elements in set Y. Here, the function f defined from X to Y is an injective function, but not a biective function.
 
+If |X| ≤ |Y| and |X| ≤ |Y|, then |X| = |Y|. The sets X and Y are often referred to as equivalent sets.
 
 ---
