@@ -34,5 +34,6 @@ B = {x:1 ≤ x < 10 and (x%2) ≠ 0}
 
 ---
 ## Cardinality of a Set
+The number of elements in a set is denoted by |S|. This number is called the cardinal number. If a set has infinitely many elements, then the number of elements is infinite.
 
 ---
