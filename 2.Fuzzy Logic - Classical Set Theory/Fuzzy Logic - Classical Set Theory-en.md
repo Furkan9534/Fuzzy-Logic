@@ -40,4 +40,7 @@ Let X and Y be two sets. The expression |X| = |Y| shows that X and Y have the sa
 
 The expression |X| ≤ |Y| indicates that the number of elements in set X is less than or equal to the number of elements in set Y. Therefore, a one-to-one function f exists from X to Y.
 
+The expression |X| < |Y| indicates that the number of elements in set X is less than the number of elements in set Y. Here, the function f defined from X to Y is an injective function, but not a biective function.
+
+
 ---
