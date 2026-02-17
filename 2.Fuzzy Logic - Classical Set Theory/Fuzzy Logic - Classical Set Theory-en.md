@@ -47,5 +47,8 @@ If |X| ≤ |Y| and |X| ≤ |Y|, then |X| = |Y|. The sets X and Y are often refer
 ## Cluster Types
 There are many types of sets. Some examples include finite sets, infinite sets, subsets, universal sets, proper sets, and single-element sets.
 ## Finite Set
+A set containing a specific number of elements is called a finite set.
+
+Example: − S = {x|x ∈ N and 55 > x > 50}
 
 ---
