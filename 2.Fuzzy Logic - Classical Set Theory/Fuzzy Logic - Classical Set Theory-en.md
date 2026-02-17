@@ -55,6 +55,6 @@ Example: − S = {x|x ∈ N and 55 > x > 50}
 A set containing an infinite number of elements is called an infinite set.
 
 Example: − S = {x|x ∈ N and x > 5}
-
+## Subset
 
 ---
