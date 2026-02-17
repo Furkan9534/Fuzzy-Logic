@@ -36,4 +36,6 @@ B = {x:1 ≤ x < 10 and (x%2) ≠ 0}
 ## Cardinality of a Set
 The number of elements in a set is denoted by |S|. This number is called the cardinal number. If a set has infinitely many elements, then the number of elements is infinite.
 
+Let X and Y be two sets. The expression |X| = |Y| shows that X and Y have the same number of elements. This is true if the two sets have an equal number of elements. Mathematically, this means that there exists a one-to-one and onto function f from X to Y.
+
 ---
