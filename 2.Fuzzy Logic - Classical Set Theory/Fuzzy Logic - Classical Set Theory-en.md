@@ -52,6 +52,9 @@ A set containing a specific number of elements is called a finite set.
 Example: − S = {x|x ∈ N and 55 > x > 50}
 
 ## Infinite Set
+A set containing an infinite number of elements is called an infinite set.
+
+Example: − S = {x|x ∈ N and x > 5}
 
 
 ---
