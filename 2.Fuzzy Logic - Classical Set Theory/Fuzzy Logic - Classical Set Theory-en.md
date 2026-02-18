@@ -77,5 +77,8 @@ Example: S={x∣x∈N,7<x<8}=∅
 because there are no natural numbers between 7 and 8.
 
 ## Single Element (Unit) Set
+A single-element (identity) set is a set containing only one element and is usually denoted as {s}.
+
+Example: S={x∣x∈N,7<x<9}={8}
 
 ---
