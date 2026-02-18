@@ -90,4 +90,8 @@ Example: If A = {1, 2, 6} and B = {6, 1, 2}, then A = B because both sets contai
 ## Equivalent Set:
 If two sets have the same number of elements, they are called equivalent sets.
 Example: For A = {1, 2, 6} and B = {16, 17, 22}, sets A and B are equivalent since |A|=|B|=3.
+
+## Overlapping Sets:
+Two sets that have at least one common element are called overlapping sets. In this case, the following relationships hold for the number of elements:
+
 ---
