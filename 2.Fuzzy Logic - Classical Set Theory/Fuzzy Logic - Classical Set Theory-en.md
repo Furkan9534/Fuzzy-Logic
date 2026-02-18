@@ -81,4 +81,5 @@ A single-element (identity) set is a set containing only one element and is usua
 
 Example: S={x∣x∈N,7<x<9}={8}
 
+Because the only natural number that satisfies this range is 8.
 ---
