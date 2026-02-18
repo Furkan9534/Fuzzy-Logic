@@ -69,4 +69,5 @@ Example: Let X = {1,2,3,4,5,6} and Y = {1,2}. Here, Y ⊂ X because all elements
 
 The universal set is the largest set containing all the elements of a given subject, and all other sets on that subject are its subsets; it is usually denoted by U. For example, if all animals on Earth is chosen as the universal set, then mammals, fish, and insects would be subsets of this set.
 
+## Empty Set or Null Set
 ---
