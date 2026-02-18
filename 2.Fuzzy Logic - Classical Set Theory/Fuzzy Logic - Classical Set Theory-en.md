@@ -133,6 +133,6 @@ Example: If A = {9, 8, 12, 13} and B = {9, 16, 25}, then (A B) = {8, 12, 13} and
 
 ## The Complement of a Set
 The complement of a set A is the set of elements that are not in set A.
-
+More specifically, A′ = (UA), where U is a universal set containing all objects.
 
 ---
