@@ -65,4 +65,6 @@ A proper subset is a subset of a set that is not equal to it. X is a proper subs
 
 Example: Let X = {1,2,3,4,5,6} and Y = {1,2}. Here, Y ⊂ X because all elements in Y are also in X, and X has at least one element greater than Y.
 
+## Universal Set
+
 ---
