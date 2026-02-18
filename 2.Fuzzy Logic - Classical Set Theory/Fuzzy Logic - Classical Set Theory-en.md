@@ -102,6 +102,8 @@ n(B)=n(B−A)+n(A∩B)
 Example: For sets A = {1, 2, 6} and B = {6, 12, 42}, since A∩B={6}, these two sets are overlapping sets.
 
 ## Disjoint Sets
+Two sets, A and B, are disjoint sets if they have no common elements. Therefore, disjoint sets have the following properties:
+
 
 
 ---
