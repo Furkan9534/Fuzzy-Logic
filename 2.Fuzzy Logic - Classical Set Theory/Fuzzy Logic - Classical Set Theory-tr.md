@@ -121,7 +121,7 @@ n ( A ∪ B ) = n ( A ) + n ( B )
 
 ## Klasik Kümeler Üzerindeki İşlemler
 
-Set operations include set union, set intersection, set difference, set complement, and Cartesian product.
+Küme işlemleri arasında küme birleşimi, küme kesişimi, küme farkı, küme tamamlayıcısı ve Kartezyen çarpım yer alır.
 
 ## Birleşim
 A ve B kümelerinin birleşimi, A'da, B'de veya hem A'da hem de B'de bulunan elemanların kümesidir. Yani, A ∪ B = {x|x ∈ A VEYA x ∈ B}.
