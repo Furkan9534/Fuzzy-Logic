@@ -117,4 +117,6 @@ Set operations include set union, set intersection, set difference, set compleme
 
 The union of sets A and B is the set of elements that are in A, in B, or in both A and B. That is, A ∪ B = {x|x ∈ A OR x ∈ B}.
 
+Example: If A = {11,12,13,14} and B = {11,14,15}, then A ∪ B = {11,12,13,14,15}. The common element appears only once.
+
 ---
