@@ -121,5 +121,6 @@ Example: If A = {11,12,13,14} and B = {11,14,15}, then A ∪ B = {11,12,13,14,15
 
 <img width="205" height="157" alt="image" src="https://github.com/user-attachments/assets/aaa1d682-eb3a-49c8-821e-ec19076c7e95" /> 
 
+## Intersection
 
 ---
