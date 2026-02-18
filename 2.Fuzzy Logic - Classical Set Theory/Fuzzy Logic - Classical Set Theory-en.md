@@ -125,7 +125,7 @@ Example: If A = {11,12,13,14} and B = {11,14,15}, then A ∪ B = {11,12,13,14,15
 The intersection of sets A and B is denoted by A ∩ B. It is the set of common elements in both A and B. That is: A ∩ B = {x|x ∈ A AND x ∈ B}.
 
 ## Difference/Relative Complementary
-
+The difference of sets A and B is the set of elements that are present only in set A but not in set B. This can be mathematically represented as AB = {x|x ∈ A AND x ∉ B}.
 
 
 ---
