@@ -76,5 +76,6 @@ Example: S={x∣x∈N,7<x<8}=∅
 
 because there are no natural numbers between 7 and 8.
 
+## Single Element (Unit) Set
 
 ---
