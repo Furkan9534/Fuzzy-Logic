@@ -119,4 +119,7 @@ The union of sets A and B is the set of elements that are in A, in B, or in both
 
 Example: If A = {11,12,13,14} and B = {11,14,15}, then A ∪ B = {11,12,13,14,15}. The common element appears only once.
 
+<img width="205" height="157" alt="image" src="https://github.com/user-attachments/assets/aaa1d682-eb3a-49c8-821e-ec19076c7e95" /> 
+
+
 ---
