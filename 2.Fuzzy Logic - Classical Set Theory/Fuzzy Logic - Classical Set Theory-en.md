@@ -107,4 +107,6 @@ Two sets, A and B, are disjoint sets if they have no common elements. Therefore,
 n ( A ∩ B ) = ϕ
 n ( A ∪ B ) = n ( A ) + n ( B )
 
+Example: Let A = {1,3,8} and B = {7,9,14}. They have no common elements, therefore these sets are overlapping sets.
+
 ---
