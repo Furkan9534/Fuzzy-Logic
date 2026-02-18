@@ -131,5 +131,8 @@ Example: If A = {9, 8, 12, 13} and B = {9, 16, 25}, then (A B) = {8, 12, 13} and
 
 <img width="439" height="153" alt="a-b" src="https://github.com/user-attachments/assets/dda2a82c-1bb1-4e57-a0ad-aa614b687008" />
 
+## The Complement of a Set
+
+
 
 ---
