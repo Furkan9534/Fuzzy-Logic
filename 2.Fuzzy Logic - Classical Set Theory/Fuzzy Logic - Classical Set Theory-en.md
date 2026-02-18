@@ -127,5 +127,8 @@ The intersection of sets A and B is denoted by A ∩ B. It is the set of common 
 ## Difference/Relative Complementary
 The difference of sets A and B is the set of elements that are present only in set A but not in set B. This can be mathematically represented as AB = {x|x ∈ A AND x ∉ B}.
 
+Example: If A = {9, 8, 12, 13} and B = {9, 16, 25}, then (A B) = {8, 12, 13} and (B A) = {16, 25}.
+
+
 
 ---
