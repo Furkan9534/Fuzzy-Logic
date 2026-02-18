@@ -88,5 +88,5 @@ If two sets have the same elements (regardless of their order), they are called 
 Example: If A = {1, 2, 6} and B = {6, 1, 2}, then A = B because both sets contain the same elements.
 
 ## Equivalent Set:
-
+If two sets have the same number of elements, they are called equivalent sets.
 ---
