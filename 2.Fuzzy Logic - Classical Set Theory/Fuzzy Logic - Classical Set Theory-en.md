@@ -86,4 +86,7 @@ Because the only natural number that satisfies this range is 8.
 ## Equal sets:
 If two sets have the same elements (regardless of their order), they are called equal sets.
 Example: If A = {1, 2, 6} and B = {6, 1, 2}, then A = B because both sets contain the same elements.
+
+## Equivalent Set:
+
 ---
