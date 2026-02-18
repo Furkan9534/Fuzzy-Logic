@@ -72,4 +72,9 @@ The universal set is the largest set containing all the elements of a given subj
 ## Empty Set or Null Set
 The empty set (null set) is a set that contains no elements and is denoted by ∅ (or Φ). The empty set has 0 elements, therefore it is a finite set.
 
+Example: S={x∣x∈N,7<x<8}=∅
+
+because there are no natural numbers between 7 and 8.
+
+
 ---
