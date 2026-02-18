@@ -123,4 +123,9 @@ Example: If A = {11,12,13,14} and B = {11,14,15}, then A ∪ B = {11,12,13,14,15
 
 ## Intersection
 The intersection of sets A and B is denoted by A ∩ B. It is the set of common elements in both A and B. That is: A ∩ B = {x|x ∈ A AND x ∈ B}.
+
+
+
+
+
 ---
