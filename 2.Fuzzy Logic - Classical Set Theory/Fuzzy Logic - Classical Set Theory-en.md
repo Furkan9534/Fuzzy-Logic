@@ -115,6 +115,6 @@ Set operations include set union, set intersection, set difference, set compleme
 
 ## Union
 
-
+The union of sets A and B is the set of elements that are in A, in B, or in both A and B. That is, A ∪ B = {x|x ∈ A OR x ∈ B}.
 
 ---
