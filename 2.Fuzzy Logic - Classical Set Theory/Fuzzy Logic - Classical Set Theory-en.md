@@ -94,4 +94,8 @@ Example: For A = {1, 2, 6} and B = {16, 17, 22}, sets A and B are equivalent sin
 ## Overlapping Sets:
 Two sets that have at least one common element are called overlapping sets. In this case, the following relationships hold for the number of elements:
 
+n(A∪B)=n(A)+n(B)−n(A∩B) \
+n(A∪B)=n(A−B)+n(B−A)+n(A∩B) \
+n(A)=n(A−B)+n(A∩B) \
+n(B)=n(B−A)+n(A∩B)
 ---
