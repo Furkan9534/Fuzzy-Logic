@@ -153,5 +153,8 @@ A∪(B∪C)=(A∪B)∪C \\
 A∩(B∩C)=(A∩B)∩C
 
 ## Dispersion Property
+When we have three sets, A, B, and C, this property states that:
 
+A∪(B∩C)=(A∪B)∩(A∪C) \\
+A∩(B∪C)=(A∩B)∪(A∩C)
 ---
