@@ -145,4 +145,7 @@ The distinctive properties of classical sets are as follows:
 ## Changeability
 If we have two sets, A and B, this property means:
 
+A∪B=B∪A \\
+A∩B=B∩A
+
 ---
