@@ -139,7 +139,7 @@ More specifically, A′ = (UA), where U is a universal set containing all object
 The Cartesian product of n sets A1, A2, An is denoted as A1 × A2...× An and can be defined as all possible ordered pairs (x1, x2, xn) where x1 ∈ A1, x2 ∈ A2, xn ∈ An.
 
 ## Properties of Classical Sets
-
+The properties of the sets play a significant role in obtaining the solutions we want.
 
 
 ---
