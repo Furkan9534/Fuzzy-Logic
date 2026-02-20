@@ -149,5 +149,7 @@ A∪B=B∪A \\
 A∩B=B∩A
 
 ## Association Feature
+A∪(B∪C)=(A∪B)∪C \\
+A∩(B∩C)=(A∩B)∩C
 
 ---
