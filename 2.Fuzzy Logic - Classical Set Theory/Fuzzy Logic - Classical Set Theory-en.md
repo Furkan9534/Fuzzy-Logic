@@ -140,6 +140,6 @@ The Cartesian product of n sets A1, A2, An is denoted as A1 × A2...× An and ca
 
 ## Properties of Classical Sets
 The properties of the sets play a significant role in obtaining the solutions we want.
-
+The distinctive properties of classical sets are as follows:
 
 ---
